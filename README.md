@@ -15,8 +15,18 @@
 - [Why debugging is all about understanding](http://futurice.com/blog/why-debugging-is-all-about-understanding)
   
   > Programmers often make the bug "the enemy", and it's not rare to swear at the computer. Programming, however, is a lot about understanding correctly, not about typing and building. Most of our programming time is spent understanding how all parts should be connected, and only a small fraction of our time is spent with actual keyboard typing.
-  
+
+# Process
+
+- [Code Review Checklist](https://ana-balica.github.io/2017/02/21/code-review-checklist/)
+
+  > Over the last couple of months, I’ve developed my own internal code review checklist. I use it both for reviewing for own finished code and my teammates code complete tickets. It’s split up into 3 sections: code, automated testing and manual testing.
+
 # Programming
+
+- [The Cost of Abstraction](http://sam-koblenski.blogspot.de/2014/07/the-cost-of-abstraction.html)
+
+  > Adding abstractions only when and where they're necessary allows a software system to evolve naturally, becoming the solution it needs to be without adding a lot of extra cruft. If the team accepts this process and allows it to happen instead of fighting against it, development will have a pleasant flow to it. Progress will be faster and require less effort when the system isn't overloaded with unnecessary, costly abstractions.
 
 - [Call me Maybe](https://glebbahmutov.com/blog/call-me-maybe/)
 
