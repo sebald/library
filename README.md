@@ -27,6 +27,12 @@
 - [The Cost of Abstraction](http://sam-koblenski.blogspot.de/2014/07/the-cost-of-abstraction.html)
 
   > Adding abstractions only when and where they're necessary allows a software system to evolve naturally, becoming the solution it needs to be without adding a lot of extra cruft. If the team accepts this process and allows it to happen instead of fighting against it, development will have a pleasant flow to it. Progress will be faster and require less effort when the system isn't overloaded with unnecessary, costly abstractions.
+  
+- [Write code that is easy to delete, not easy to extend.](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+
+  > You don’t need to throw it all away but you will need to delete some of it. Good code isn’t about getting it right the first time. Good code is just legacy code that doesn’t get in the way.
+  >
+  > Good code is easy to delete.
 
 - [Call me Maybe](https://glebbahmutov.com/blog/call-me-maybe/)
 
