@@ -29,3 +29,7 @@
 - [WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
 
   > JSX is actually quite straightforward: take 1 minute and read this, and you'll understand everything there is to know about this interesting alternative to templates.
+  
+# Quotes
+
+> The primary cost of abstaction is indirection. In my experience, you should only abstract when the added abstraction clarifies things more than the added indirection confuses them. - Bryan Edds 
