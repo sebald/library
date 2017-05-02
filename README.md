@@ -12,11 +12,25 @@
   
   > There’s nothing you can do to improve as long as you keep bowling like that. You’ve maxed out. If you want to get better, you’re going to have to learn to bowl properly. You need a different ball, a different style of throwing it, and you need to put your fingers in it like a big boy. And the worst part is that you’re going to get way worse before you get better, and it will be a good bit of time before you get back to and surpass your current average.
   
+- [The Difference Between Excellent, Good and Bad JavaScript Developers](http://thefullstack.xyz/excellent-javascript-developer/)
+
+  > How we behave when writing horrible code is the ultimate litmus test for developer competency.
+
 - [Why debugging is all about understanding](http://futurice.com/blog/why-debugging-is-all-about-understanding)
   
   > Programmers often make the bug "the enemy", and it's not rare to swear at the computer. Programming, however, is a lot about understanding correctly, not about typing and building. Most of our programming time is spent understanding how all parts should be connected, and only a small fraction of our time is spent with actual keyboard typing.
 
 # Process
+
+- [Technical debt 101](https://medium.com/@joaomilho/festina-lente-e29070811b84)
+
+  > A “debt” means that you traded acquiring something now for a long-term financial burden. This burden is not just about repaying what you got: there is an “interest”. It means that, even if you pay your debt timely, you’ll pay more than you took, and if you don’t, your debt will keep increasing even if you don’t do anything. And if you ignore a debt long enough, it will become unpayable and you’ll get “bankrupt”.
+
+  > The problem of big rewrites is that they are a technical solution to a cultural problem.
+  
+  > He thought nothing less becoming in a well-trained leader than haste and rashness, and, accordingly, favorite sayings of his were: More haste, less speed.
+  >
+  > That is done quickly enough which is done well enough.
 
 - [Code Review Checklist](https://ana-balica.github.io/2017/02/21/code-review-checklist/)
 
