@@ -16,6 +16,10 @@
 
   > How we behave when writing horrible code is the ultimate litmus test for developer competency.
 
+- [What I Wish I Knew When Starting Out as a Software Developer: Slow the Fuck Down](http://blog.salsitasoft.com/what-i-wish-i-knew-when-starting-out-as-a-software-developer-slow-the-fuck-down/)
+
+  > [..] it's about creating software that is stable, performant, maintainable and understandable.
+
 - [Why debugging is all about understanding](http://futurice.com/blog/why-debugging-is-all-about-understanding)
   
   > Programmers often make the bug "the enemy", and it's not rare to swear at the computer. Programming, however, is a lot about understanding correctly, not about typing and building. Most of our programming time is spent understanding how all parts should be connected, and only a small fraction of our time is spent with actual keyboard typing.
@@ -31,6 +35,18 @@
   > He thought nothing less becoming in a well-trained leader than haste and rashness, and, accordingly, favorite sayings of his were: More haste, less speed.
   >
   > That is done quickly enough which is done well enough.
+
+- [Defining and Dealing with Technical Debt](https://css-tricks.com/defining-and-dealing-with-technical-debt/)
+
+  > The one thing worth taking away from the Wikipedia entry is that not all technical debt is created equal. In fact, there are four types of debt to consider. Let's take a look at each one.
+
+- [Getting Real: Take it slow if you need it fast](https://signalvnoise.com/archives2/getting_real_take_it_slow_if_you_need_it_fast.php)
+
+  > In the moment of pressure, it’s incredibly easy to commit the fallacy of thinking that you “don’t have time to do the right thing”. That’s a big warning sign and should condition your brain to slap you when the thought pops into your head.
+
+- [Bad code isn't Technical Debt, it's an unhedged Call Option](http://higherorderlogic.com/2010/07/bad-code-isnt-technical-debt-its-an-unhedged-call-option/)
+
+  > This is all Chris Matts‘ idea. He realised that the problem with the “Technical Debt” metaphor is that for managers debt can be a good thing. Executives can be required to take on more debt because it makes the finances work better, it might even be encouraged by tax breaks. This is not the same debt as your personal credit card. Chris came up with a better metaphor, the Call Option.
 
 - [Code Review Checklist](https://ana-balica.github.io/2017/02/21/code-review-checklist/)
 
