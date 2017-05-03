@@ -26,6 +26,12 @@
 
 # Process
 
+- [Why slow thinking wins](https://www.bostonglobe.com/ideas/2015/07/25/the-power-slow-thinking/ToZbzYl7rG0yVMCtsZ7WnJ/story.html)
+
+  > Everyone remembers the story of the tortoise and the hare, but no one seems to have learned the lesson it teaches: Slowness wins.
+  
+  *One of the best books ever: [Thinking, Fast and Slow, Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)*
+
 - [Technical debt 101](https://medium.com/@joaomilho/festina-lente-e29070811b84)
 
   > A “debt” means that you traded acquiring something now for a long-term financial burden. This burden is not just about repaying what you got: there is an “interest”. It means that, even if you pay your debt timely, you’ll pay more than you took, and if you don’t, your debt will keep increasing even if you don’t do anything. And if you ignore a debt long enough, it will become unpayable and you’ll get “bankrupt”.
