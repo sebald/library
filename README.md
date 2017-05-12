@@ -73,6 +73,12 @@
 - [Call me Maybe](https://glebbahmutov.com/blog/call-me-maybe/)
 
   > Replacing the built-in OR and TERNARY operators with Maybe monads.
+  
+-  [The Intuition behind Applicative](https://glebbahmutov.com/blog/applicative-intuition/)
+
+  > If you have a plain value, it can be wrapped and mapped over a function Box(x).map(f)
+  > If you have a function, you can wrap it and apply to a wrapped value Box(f).ap(Box(x))
+  > You can apply wrapped function that expects multiple arguments if you curry the function
 
 - [The Return of Stream I/O](https://www.youtube.com/watch?v=Tkjg179M-Nc)
 
