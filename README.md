@@ -3,6 +3,10 @@
 - [Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
 
   > I ask that you set aside your framework prejudices and read this post with an open mind. This post is not to evangelize React specifically, but to explain why its technique is profound. I want developers steeped in other technologies to take a hard look at these techniques, particularly those involved in Web Components.
+  
+- [From Dependency Injection to Dependency Rejection](http://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/)
+
+  > The problem typically solved by dependency injection in object-oriented programming is solved in a completely different way in functional programming.
 
 # Learning
 
