@@ -7,6 +7,16 @@
 - [From Dependency Injection to Dependency Rejection](http://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/)
 
   > The problem typically solved by dependency injection in object-oriented programming is solved in a completely different way in functional programming.
+  
+- [Pure UI](https://rauchg.com/2015/pure-ui)
+
+  > The fundamental idea I want to discuss is the definition of an application’s UI as a pure function of application state.
+  
+  > Since I’m not returning the actual DOM elements (no document.createElement) or performing any real rendering, we can think of this function as one that performs mappings between an input (my parameters) and an output (the virtual dom).
+  > 
+  > If throughout the lifetime of the program the parameters change (let’s say there’s a new video to play or the user performs an action), the function is called again with new parameters and the rendered view is updated.
+  >
+  > With this model in place, the programmer is thus relieved from the burden of specifying the transition between states (or transformation) of the UI over time. No need to specify how to go from A to B: just describe what A looks like and what B looks like, in a discrete way.
 
 # Learning
 
