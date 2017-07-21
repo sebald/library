@@ -84,11 +84,15 @@
   >
   > Good code is easy to delete.
 
+- [Oh composable World!](https://www.youtube.com/watch?v=SfWR3dKnFIo)
+
+  > All about dot-chaining and how FP helps/deals with control flow, side effects, ...
+
 - [Call me Maybe](https://glebbahmutov.com/blog/call-me-maybe/)
 
   > Replacing the built-in OR and TERNARY operators with Maybe monads.
   
--  [The Intuition behind Applicative](https://glebbahmutov.com/blog/applicative-intuition/)
+- [The Intuition behind Applicative](https://glebbahmutov.com/blog/applicative-intuition/)
 
   > If you have a plain value, it can be wrapped and mapped over a function Box(x).map(f)
   > If you have a function, you can wrap it and apply to a wrapped value Box(f).ap(Box(x))
