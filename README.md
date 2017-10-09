@@ -17,7 +17,12 @@
   > If throughout the lifetime of the program the parameters change (let’s say there’s a new video to play or the user performs an action), the function is called again with new parameters and the rendered view is updated.
   >
   > With this model in place, the programmer is thus relieved from the burden of specifying the transition between states (or transformation) of the UI over time. No need to specify how to go from A to B: just describe what A looks like and what B looks like, in a discrete way.
+  
+- Documenting Architecture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 
+
+  > An architecture decision record is a short text file in a format similar to an Alexandrian pattern. (Though the decisions themselves are not necessarily patterns, they share the characteristic balancing of forces.) Each record describes a set of forces and a single decision in response to those forces. Note that the decision is the central piece here, so specific forces may appear in multiple ADRs.
+  
 # Learning
 
 - [How Developers Stop Learning: Rise of the Expert Beginner](http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner)
