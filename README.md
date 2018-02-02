@@ -76,6 +76,10 @@
 - [Code Review Checklist](https://ana-balica.github.io/2017/02/21/code-review-checklist/)
 
   > Over the last couple of months, I’ve developed my own internal code review checklist. I use it both for reviewing for own finished code and my teammates code complete tickets. It’s split up into 3 sections: code, automated testing and manual testing.
+  
+- [Solve it once](http://gedd.ski/post/solve-it-once/)
+
+  > When you set out to solve a problem, the biggest temptation is to do a quick fix. [..] Here’s a better way to work: if it happens twice, solve it once. Like, actually solve it.
 
 # Programming
 
