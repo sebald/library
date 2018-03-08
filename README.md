@@ -117,6 +117,14 @@
 
 - [Functional Principles for Object-Oriented Development](https://www.youtube.com/watch?v=GpXsQ-NIKXY)
 
+# Design
+
+- [Change your focus and design "Content First"](https://www.everydaydesigner.net/design/change-your-focus-and-design-content-first)
+
+- [Aesthetic Sass 3: Typography and Vertical Rhythm](https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm)
+
+  > [..] using both a modular type scale and a vertical rhythm can provide a systematic way of laying out content in your projects, without having to use magic numbers.
+
 # Quotes
 
 > The primary cost of abstaction is indirection. In my experience, you should only abstract when the added abstraction clarifies things more than the added indirection confuses them. - Bryan Edds
