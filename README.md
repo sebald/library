@@ -45,6 +45,18 @@
 
 # Process
 
+- [Agile Software Development: The Business of Innovation](http://sunset.usc.edu/events/2002/arr/agile.pdf)
+  
+  > Traditional approaches assumed that if we just tried hard enough, we could anticipate the complete set of requirements early and reduce cost by eliminating change. Today, eliminating change early means being unresponsive to business conditions—in other words, business failure.
+  
+- [Agile Software Development: The People Factor](https://pdfs.semanticscholar.org/9558/7f603098b5b30253b727cb9e0ddaac6ba164.pdf)
+
+  > The first is the idea that the business and technology worlds have become turbulent, high speed, and uncertain, requiring
+a process to both create change and respond rapidly to change. 
+
+  > The first connotation implies the second one: An agile process requires responsive people and organizations.
+Agile development focuses on the talents and skills of individuals and molds process to specific people and teams, not the other way around.
+
 - [Why slow thinking wins](https://www.bostonglobe.com/ideas/2015/07/25/the-power-slow-thinking/ToZbzYl7rG0yVMCtsZ7WnJ/story.html)
 
   > Everyone remembers the story of the tortoise and the hare, but no one seems to have learned the lesson it teaches: Slowness wins.
