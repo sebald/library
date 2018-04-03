@@ -20,10 +20,15 @@
   
 - Documenting Architecture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 
-
   > An architecture decision record is a short text file in a format similar to an Alexandrian pattern. (Though the decisions themselves are not necessarily patterns, they share the characteristic balancing of forces.) Each record describes a set of forces and a single decision in response to those forces. Note that the decision is the central piece here, so specific forces may appear in multiple ADRs.
   
 # Learning
+
+- [Half Life: The Decay of Knowledge and What to Do About It](https://www.fs.blog/2018/03/half-life/)
+
+  > The problem is that we rarely consider the half-life of information. Many people assume that whatever they learned in school remains true years or decades later.
+  
+  > The faster the pace of knowledge change, the more valuable the skill of learning becomes.
 
 - [How Developers Stop Learning: Rise of the Expert Beginner](http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner)
 
