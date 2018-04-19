@@ -2,6 +2,18 @@
 
 - [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/) 
 
+- [The Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960)
+
+  > Great Teams Make Great People. You don’t hire star developers, put them together, and poof get a great team. It’s the other way around. When developers form a great team, the team makes us into great developers.
+  
+  > Systems thinking says, we are more than the components; we are also the interrelationships. Agile recognizes that these matter.
+  
+  > My team includes the people I work with, and also the software itself. And the servers it runs on, the databases it uses, and all the tools that we use to interact with the running software: the code, version control, automated tests, deployment scripts, logging.
+  
+  > This is dangerous, because the useful ideas are the ones we contribute. The mental models we hoard make us look good; those we share make the whole team powerful.
+  
+  > Software is not Art. Software is the next thing after art. It is something new, that we’ve never been able to do before.
+
 # Architecture
 
 - [Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
