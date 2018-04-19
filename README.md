@@ -1,6 +1,6 @@
 # Principles
 
--[The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/) 
+- [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/) 
 
 # Architecture
 
