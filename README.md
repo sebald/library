@@ -14,6 +14,10 @@
   
   > Software is not Art. Software is the next thing after art. It is something new, that we’ve never been able to do before.
 
+- [Becoming a 10x Developer](https://kateheddleston.com/blog/becoming-a-10x-developer)
+
+  > A 10x engineer isn’t someone who is 10x better than those around them, but someone who makes those around them 10x better.
+
 # Architecture
 
 - [Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
