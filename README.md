@@ -24,6 +24,14 @@
 
   > I ask that you set aside your framework prejudices and read this post with an open mind. This post is not to evangelize React specifically, but to explain why its technique is profound. I want developers steeped in other technologies to take a hard look at these techniques, particularly those involved in Web Components.
 
+- [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
+
+  > avoid central configuration of your application at all cost, because central configuration, like having a central CSS file, makes it very hard to delete code.
+  
+  > In fact, it is the opposite of import. It is a reverse dependency. If you enhance a module, you make that module have a dependency on you.
+  >
+  > Looking at the dependency graph, what happens it that there are still the same components, but the arrows point in the opposite direction. So, instead of the router importing the root component, the root components announce themselves using enhance to the router. This means I can get rid of a root component by just deleting the file. Because it is no longer enhancing the router, that is the only operation you have to do to delete the component.
+
 - [From Dependency Injection to Dependency Rejection](http://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/)
 
   > The problem typically solved by dependency injection in object-oriented programming is solved in a completely different way in functional programming.
