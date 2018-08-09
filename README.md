@@ -24,7 +24,7 @@
 
   > I ask that you set aside your framework prejudices and read this post with an open mind. This post is not to evangelize React specifically, but to explain why its technique is profound. I want developers steeped in other technologies to take a hard look at these techniques, particularly those involved in Web Components.
 
-- [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
+- [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3) [🎬](https://www.youtube.com/watch?v=ZZmUwXEiPm4)
 
   > avoid central configuration of your application at all cost, because central configuration, like having a central CSS file, makes it very hard to delete code.
   
