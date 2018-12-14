@@ -50,6 +50,10 @@
 
   > An architecture decision record is a short text file in a format similar to an Alexandrian pattern. (Though the decisions themselves are not necessarily patterns, they share the characteristic balancing of forces.) Each record describes a set of forces and a single decision in response to those forces. Note that the decision is the central piece here, so specific forces may appear in multiple ADRs.
   
+- [Von Schichten zu Ringen – Hexagonale Architekturen erklärt](https://www.maibornwolff.de/blog/von-schichten-zu-ringen-hexagonale-architekturen-erklaert) *(German)*
+
+  Short, but easy to comprehend!
+  
 # Learning
 
 - [Half Life: The Decay of Knowledge and What to Do About It](https://www.fs.blog/2018/03/half-life/)
