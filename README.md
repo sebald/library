@@ -182,6 +182,10 @@ Agile development focuses on the talents and skills of individuals and molds pro
 
 - [Functional Principles for Object-Oriented Development](https://www.youtube.com/watch?v=GpXsQ-NIKXY)
 
+- [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
+
+  > The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them.   > You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+
 # Design
 
 - [Change your focus and design "Content First"](https://www.everydaydesigner.net/design/change-your-focus-and-design-content-first)
