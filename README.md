@@ -17,6 +17,10 @@
 - [Becoming a 10x Developer](https://kateheddleston.com/blog/becoming-a-10x-developer)
 
   > A 10x engineer isn’t someone who is 10x better than those around them, but someone who makes those around them 10x better.
+  
+> [Prioritizing](https://css-tricks.com/prioritizing/)
+  
+  > What you work on informs your values.
 
 # Architecture
 
