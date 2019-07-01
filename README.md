@@ -14,13 +14,21 @@
   
   > Software is not Art. Software is the next thing after art. It is something new, that we’ve never been able to do before.
 
+- [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
+
+  > The fundamental role of internal quality is that it lowers the cost of future change. But there is some extra effort required to write good software, which does impose some cost in the short term.
+  
+  > Concentrating on high internal quality is about reducing that drop off in productivity. 
+  
+  > This is why the question that heads this article misses the point. The "cost" of high internal quality software is negative. The usual trade-off between cost and quality, one that we are used to for most decisions in our life, does not make sense with the internal quality of software. (It does for external quality, such as a carefully crafted user-experience.) Because the relationship between cost and internal quality is an unusual and counter-intuitive relationship, it's usually hard to absorb. But understanding it is critical to developing software at maximum efficiency.
+  
+- [Prioritizing](https://css-tricks.com/prioritizing/)
+  
+  > What you work on informs your values.
+
 - [Becoming a 10x Developer](https://kateheddleston.com/blog/becoming-a-10x-developer)
 
   > A 10x engineer isn’t someone who is 10x better than those around them, but someone who makes those around them 10x better.
-  
-> [Prioritizing](https://css-tricks.com/prioritizing/)
-  
-  > What you work on informs your values.
 
 # Architecture
 
