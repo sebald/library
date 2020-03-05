@@ -144,6 +144,12 @@ Agile development focuses on the talents and skills of individuals and molds pro
 
 # Programming
 
+-[Designing Even Larger Applications](https://medium.com/@cramforce/designing-even-larger-applications-460ee029012d?source=friends_link&sk=e732423e46e87029473431067fd066fc) 
+
+  > Unnecessary tradeoffs are the root of all evil.
+  
+  > If uncertainty is high then reduce the degree of abstraction.
+
 - [The Cost of Abstraction](http://sam-koblenski.blogspot.de/2014/07/the-cost-of-abstraction.html)
 
   > Adding abstractions only when and where they're necessary allows a software system to evolve naturally, becoming the solution it needs to be without adding a lot of extra cruft. If the team accepts this process and allows it to happen instead of fighting against it, development will have a pleasant flow to it. Progress will be faster and require less effort when the system isn't overloaded with unnecessary, costly abstractions.
