@@ -144,7 +144,7 @@ Agile development focuses on the talents and skills of individuals and molds pro
 
 # Programming
 
--[Designing Even Larger Applications](https://medium.com/@cramforce/designing-even-larger-applications-460ee029012d?source=friends_link&sk=e732423e46e87029473431067fd066fc) 
+- [Designing Even Larger Applications](https://medium.com/@cramforce/designing-even-larger-applications-460ee029012d?source=friends_link&sk=e732423e46e87029473431067fd066fc) 
 
   > Unnecessary tradeoffs are the root of all evil.
   
