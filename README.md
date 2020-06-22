@@ -156,6 +156,10 @@ Agile development focuses on the talents and skills of individuals and molds pro
   
 - [The wrong Abstraction](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 
+  > duplication is far cheaper than the wrong abstraction
+
+  > prefer duplication over the wrong abstraction
+
   > The moral of this story? Don't get trapped by the sunk cost fallacy. If you find yourself passing parameters and adding conditional paths through shared code, the abstraction is incorrect. It may have been right to begin with, but that day has passed. Once an abstraction is proved wrong the best strategy is to re-introduce duplication and let it show you what's right. Although it occasionally makes sense to accumulate a few conditionals to gain insight into what's going on, you'll suffer less pain if you abandon the wrong abstraction sooner rather than later.
 
   > When the abstraction is wrong, the fastest way forward is back. This is not retreat, it's advance in a better direction. Do it. You'll improve your own life, and the lives of all who follow.
