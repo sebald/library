@@ -2,7 +2,7 @@
 
 A collection of artilces and sources about software development related topics that I find worth to keep.
 
-# TOC
+### TOC
 
 1. [🏛  Architecture](./architecture.md)
 1. [🎨  Design](./design.md)
