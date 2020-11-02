@@ -4,10 +4,10 @@ A collection of artilces and sources about software development related topics t
 
 # TOC
 
-1. [Architecture](./architecture.md)
-2. [Design](./design.md)
-3. [Learning](./learning.md)
-4. [Principles](./principles.md)
-5. [Process](./process.md)
-6. [Programming](./programming.md)
-7. [Quotes](./quotes.md)
+1. [🏛  Architecture](./architecture.md)
+1. [🎨  Design](./design.md)
+1. [🎓  Learning](./learning.md)
+1. [🌱  Principles](./principles.md)
+1. [⏳  Process](./process.md)
+1. [⌨️  Programming](./programming.md)
+1. [🖋  Quotes](./quotes.md)
