@@ -28,6 +28,12 @@ Agile development focuses on the talents and skills of individuals and molds pro
   >
   > That is done quickly enough which is done well enough.
 
+- [Technical Debt: Why it'll ruin your software](https://labcodes.com.br/blog/articles/tech-debt.html)
+
+  > f we focus on the name (Technical Debt), we’re lead to think that it’s a problem made by technical people, namely: the developers, who are responsible for writing the code that ultimately caused the debt.
+  
+  > The problem is that software is the result of the structure and processes of a whole company.
+
 - [Defining and Dealing with Technical Debt](https://css-tricks.com/defining-and-dealing-with-technical-debt/)
 
   > The one thing worth taking away from the Wikipedia entry is that not all technical debt is created equal. In fact, there are four types of debt to consider. Let's take a look at each one.
