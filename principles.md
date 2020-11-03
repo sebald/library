@@ -1,6 +1,12 @@
 # Principles
 
-- [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/) 
+- [50 Short Product Lessons](https://cutle.fish/blog/50-product-lessons)
+
+  *(Lots of good advice here, just read the whole thing!)*
+
+  > **Bets:** You might ask, “Why is it important to think in terms of bets?” The simplistic answer is, “We’re making an investment, and we want a really good return on that investment.” That is true, but the usefulness of thinking in terms of bets is that the different types of bets, the shape of bets, and the relatedness of bets are very pertinent to product development. There are helpful mental models for what we’re doing.
+
+  > **Products and features are temporary:** One thing you realize with a lot of software as a service products is that features, and maybe to a lesser extent products, are temporary. They are temporary delivery mechanisms to meet human needs and deliver some value or capability.
 
 - [The Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960)
 
@@ -25,6 +31,8 @@
 - [Prioritizing](https://css-tricks.com/prioritizing/)
   
   > What you work on informs your values.
+
+- [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/) 
 
 - [Becoming a 10x Developer](https://kateheddleston.com/blog/becoming-a-10x-developer)
 
